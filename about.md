@@ -2,7 +2,7 @@
 layout: page
 title: Über mich
 description: Was ich so mache.
-background: '/img/profilbild.jpg'
+background: ''
 ---
 
 Mein Name ist Tim Becker. Ich bin Rechtsanwalt und Fachanwalt für Informationstechnologierecht (IT-Recht) in der Rechtsanwaltskanzlei Becker+Henke Partnerschaft in Lübeck.
