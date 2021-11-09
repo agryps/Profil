@@ -1,11 +1,19 @@
 ---
 layout: page
-title: Contact Me
-description: Have questions? I have answers.
+title: Kontaktdaten
+description: Melden Sie sich gern.
 background: '/img/bg-contact.jpg'
 form: true
 ---
 
+## Kontaktdaten
+
+Tim Becker
+Kanalstraße 80, 23552 Lübeck
+Mail: kontakt@becker-henke.de
+Telefon: 0451 98989612
+
+<!--
 <p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>
 <form name="sentMessage" id="contactForm" novalidate>
   <div class="control-group">
@@ -42,3 +50,4 @@ form: true
     <button type="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
   </div>
 </form>
+-->

@@ -10,9 +10,3 @@ Ich bin Rechtsanwalt und Fachanwalt für Informationstechnologierecht (IT-Recht)
 Meine Schwerpunkte sind das **IT-Recht** und das **Datenschutzrecht**. Überwiegend berate ich Unternehmen bei der Umsetzung der Anforderungen aus der Datenschutz-Grundverordnung und begleite meine Mandanten bei ihren IT-Projekten. Hierbei spielt das IT-Vertragsrecht eine wesentliche Rolle. Daneben berate ich im Urheber- und Medienrecht.
 
 Durch meine inzwischen über 8-jährige Tätigkeit in diesen Rechtsgebieten, kann ich auf einen großen Erfahrungsschatz zurückgreifen und helfe meinen Mandanten so mit praxistauglichen Lösungen. Wenn es erforderlich wird, vertrete ich meine Mandanten selbstverständlich auch vor Gericht.
-
-## Kontakt
-
-Kanalstraße 80, 23552 Lübeck\
-T. 0451/98 98 96 12\
-M. kontakt@becker-henke.de
