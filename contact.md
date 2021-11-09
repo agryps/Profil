@@ -11,7 +11,7 @@ form: true
 Tim Becker\
 Kanalstraße 80, 23552 Lübeck\
 Mail: kontakt@becker-henke.de\
-Telefon: 0451 98989612\
+Telefon: 0451 98989612
 
 <!--
 <p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>
