@@ -3,7 +3,7 @@ layout: page
 title: Wie kann ich Ihnen helfen?
 description: Melden Sie sich gern.
 background: '/img/bg_index_room.jpg'
-form: true
+form: false
 ---
 
 ## Kontaktdaten
@@ -49,5 +49,4 @@ Telefon: 0451 98989612
   <div class="form-group">
     <button type="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
   </div>
-</form>
--->
+</form> -->
