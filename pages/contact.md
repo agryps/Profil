@@ -3,7 +3,7 @@ layout: page
 title: Wie kann ich Ihnen helfen?
 description: Melden Sie sich gern.
 background: '/img/bg_index_room.jpg'
-form: false
+form: true
 ---
 
 ## Kontaktdaten
