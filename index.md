@@ -13,4 +13,7 @@ Ich habe eine starke Affinität zur Informationstechnologie und zu OpenSource-Th
 
 Überwiegend berate ich Unternehmen bei der Umsetzung der Anforderungen aus der Datenschutz-Grundverordnung und begleite meine Mandanten bei ihren IT-Projekten.
 
-Kürzlich habe ich meine Masterarbeit im Informationsrecht geschrieben und warte nun auf die Ergebnisse. Das war zeitlich neben dem Beruf sehr herausfordernd. Aber letztlich bringen einen nur diese Herausforderungen weiter. Mein Antrieb, Neugier; mein Ziel, praxistaugliche Lösungen für meine MandantInnen zu erarbeiten. 
+Kürzlich habe ich meine Masterarbeit im Informationsrecht geschrieben und warte nun auf die Ergebnisse. Das war zeitlich neben dem Beruf sehr herausfordernd. Aber letztlich bringen einen nur diese Herausforderungen weiter. Mein Antrieb, Neugier; mein Ziel, praxistaugliche Lösungen für meine MandantInnen zu erarbeiten.
+
+[LinkedIn]<https://www.linkedin.com/in/becker-tim/>
+Twitter: <https://twitter.com/ra_tbecker>
