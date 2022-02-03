@@ -1,8 +1,8 @@
 ---
 title:
 layout: default
-permalink: 
-published: true
+permalink: projects
+published: false
 ---
 
 
