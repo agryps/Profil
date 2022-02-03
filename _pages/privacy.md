@@ -1,5 +1,5 @@
 ---
-title: Impressum
+title: Datenschutz
 layout: default
 permalink: /privacy/
 published: true
