@@ -1,25 +1,64 @@
-title:              Tim Becker
-email:              kontakt@becker-henke.de
-description:        Fachanwalt für IT-Recht
-author:             Tim Becker
-baseurl:            ""
-url:                "https://becker-tim.de"
+### your site title here
 
-# Social Profiles
+title: Tim Becker
+description: Rechtsanwalt | Fachanwalt für IT-Recht
+
+baseurl: "" #name of GitHub repository
+url: "https://becker-tim.de" #custom url to be used instead of GitHub repository
+email: #
+
+
+highlighter: rouge
+markdown: kramdown
+
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+# Social media links in footer
 twitter_username:   ra_tbecker
 github_username:    
 facebook_username:  
 instagram_username:  
 linkedin_username: becker-tim
 
-# Add your google-analytics ID here to activate google analytics
-# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+highlighter: rouge
+markdown: kramdown
 
-# Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+# Tracker
+analytics:
+
+#optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+#collection
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - LICENSE.md
+
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-email-protect
+  - jekyll-target-blank
