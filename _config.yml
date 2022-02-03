@@ -17,17 +17,14 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter_username: ra_tbecker
-github_username:    
-facebook_username:  
-instagram_username:  
+twitter_username: ra_tbecker  
 linkedin_username: becker-tim
 
 highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics:
+# analytics:
 
 #optimization -> compress.html
 compress_html:
