@@ -17,4 +17,4 @@ Kürzlich habe ich meine Masterarbeit im Informationsrecht geschrieben und warte
 
 [LinkedIn](<https://www.linkedin.com/in/becker-tim/>)\
 [Twitter](<https://twitter.com/ra_tbecker>)\
-[Mastodon](@timbecker@digitalcourage.social)
+[Mastodon](<@timbecker@digitalcourage.social>)
