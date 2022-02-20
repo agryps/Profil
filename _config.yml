@@ -3,7 +3,7 @@
 title: Tim Becker
 description: Fachanwalt für IT-Recht | Rechtsanwalt
 
-baseurl: "https://becker-tim.de" #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "https://becker-tim.de" #custom url to be used instead of GitHub repository
 email: #
 
