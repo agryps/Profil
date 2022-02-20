@@ -11,7 +11,7 @@ Nachfolgend erfahren Sie von mir etwas über Art, Umfang und Zwecke der Erhebung
 
 Diese Datenschutzerklärung gilt für die Datenverarbeitung durch:
 
-Tim Becker, Kanalstraße 80, 23552 Lübeck, Deutschland\
+Rechtsanwalt Tim Becker, Kanalstraße 80, 23552 Lübeck, Deutschland\
 Email: kontakt@becker-henke.de\
 Telefon: +49 (0)451 – 9898 9612 Fax: +49 (0)451 – 9890 5648
 
@@ -53,11 +53,11 @@ Ich gebe Ihre persönlichen Daten nur an Dritte weiter, wenn:
 
 Ich setze auf meiner Website keine Cookies oder Trackingtechnologien ein.
 
-Die Seite wird jedoch bei GitHub Pages gehostet. Insoweit verweise ich bzgl. etwaiger Analyse des Nutzerverhaltens auf die Datenschutzerklärung von GitHub unter: <https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages>
+Die Seite wird jedoch bei GitHub Pages gehostet. Insoweit verweise ich bzgl. etwaiger Analyse des Nutzerverhaltens durch GitHub selbst auf die Datenschutzerklärung von GitHub unter: <https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages>
 
 ### 6. Social Media Profile
 
-Ich unterhalte auch Auftritte auf den Social-Media Plattform LinkedIn, Xing und Twitter. Sie erkennen meine Auftritte anhand des jeweils verwendeten Symbols auf der Website. Hinter dem verwendeten Symbol befindet sich lediglich ein Link, der Sie zu meinem Profil auf der jeweiligen Plattform führt. Solange Sie sich nur auf meiner Webseite umschauen, findet eine Interaktion zwischen Ihrem Browser mit den Servern der jeweiligen Plattform nicht statt. Erst wenn Sie den Link betätigen, werden die für den Aufruf einer Webseite erforderlichen Daten von der jeweiligen Plattform erhoben und verarbeitet. Es handelt sich gerade nicht um sog. Social-Plugins. Für weitere Informationen beachten Sie bitte die jeweilige Datenschutzerklärung der genannten Plattformen.
+Ich unterhalte auch Auftritte auf den Social-Media Plattform LinkedIn, Xing, Twitter und Mastodon. Sie erkennen meine Auftritte anhand des jeweils verwendeten Symbols oder direkten Bezeichnung auf der Website. Hinter dem verwendeten Symbol oder der Bezeichnung befindet sich lediglich ein Link, der Sie zu meinem Profil auf der jeweiligen Plattform führt. Solange Sie sich nur auf meiner Webseite umschauen, findet eine Interaktion zwischen Ihrem Browser mit den Servern der jeweiligen Plattform nicht statt. Erst wenn Sie den Link betätigen, werden die für den Aufruf einer Webseite erforderlichen Daten von der jeweiligen Plattform erhoben und verarbeitet. Es handelt sich gerade nicht um sog. Social-Plugins. Für weitere Informationen beachten Sie bitte die jeweilige Datenschutzerklärung der genannten Plattformen.
 
 ### 7. Betroffenenrechte
 
