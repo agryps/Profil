@@ -28,7 +28,7 @@ Victoriaplatz 1\
 
 Berufsbezogene Pflichtangaben
 
-Die Rechtsanwälte Becker und Henke sind Mitglieder der Rechtsanwaltskammer Schleswig Holstein. Die Berufsbezeichnung „Rechtsanwalt“ wurde ihnen in der Bundesrepublik Deutschland verliehen.
+Rechtsanwalt Tim Becker ist Mitglied der Rechtsanwaltskammer Schleswig Holstein. Die Berufsbezeichnung „Rechtsanwalt“ wurde ihm in der Bundesrepublik Deutschland verliehen.
 
 Die Tätigkeiten der Rechtsanwälte werden durch die Bundesrechtsanwaltsordnung (BRAO), das Rechtsanwaltsvergütungsgesetz (RVG) und die Berufsordnung für Rechtsanwälte (BORA), die Fachanwaltsordnung (FAO) sowie die Berufsregelungen der Rechtsanwälte der Europäischen Union geregelt.
 
@@ -36,4 +36,11 @@ Die aktuellen Gesetzestexte können Sie auf der Website der Bundesrechtsanwaltsk
 
 Plattform der Europäischen Kommission zur Online-Streitbeilegung (OS) für Verbraucher: <https://ec.europa.eu/consumers/odr/>
 
-Wir sind nicht bereit und nicht verpflichtet, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+Ich bin nicht bereit und nicht verpflichtet, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+Dieses Impressum gilt auch für die folgenden Accounts Accounts bei Anwalt.de, Twitter und Mastodon
+
+- https://www.anwalt.de/tim-becker-1
+- https://twitter.com/ra_tbecker
+- https://legal.social/@becker
+- https://digitalcourage.social/@timbecker
