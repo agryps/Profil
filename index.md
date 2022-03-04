@@ -13,7 +13,7 @@ Ich habe eine starke Affinität zur Informationstechnologie und zu OpenSource-Th
 
 Kürzlich habe ich meine Masterarbeit im Informationsrecht geschrieben und warte nun auf die Ergebnisse. Das war zeitlich neben dem Beruf sehr herausfordernd. Aber letztlich bringen einen nur diese Herausforderungen weiter. Mein Antrieb, Neugier – Mein Ziel, praxistaugliche Lösungen.
 
-Mehr zu meiner Person und meinem Lebenslauf können Sie unter den folgende Links erfahren.
+Mehr zu meiner Person und meinem Lebenslauf können Sie unter den folgenden Links erfahren.
 
 [LinkedIn](<https://www.linkedin.com/in/becker-tim/>)\
 [Twitter](<https://twitter.com/ra_tbecker>)\
