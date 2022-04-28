@@ -13,6 +13,4 @@ Ich habe eine starke Affinität zur Informationstechnologie und zu OpenSource-Th
 
 Mehr zu meiner Person und meinem Lebenslauf können Sie unter den folgenden Links erfahren.
 
-[LinkedIn](<https://www.linkedin.com/in/becker-tim/>)\
-[Twitter](<https://twitter.com/ra_tbecker>)\
-[Mastodon](<@timbecker@digitalcourage.social>)
+| [LinkedIn](<https://www.linkedin.com/in/becker-tim/>) | [Twitter](<https://twitter.com/ra_tbecker>) | [Mastodon](<https://digitalcourage.social/@timbecker>) | 
