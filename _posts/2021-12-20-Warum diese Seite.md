@@ -10,5 +10,5 @@ diese Website startete als kleines Testprojekt. Ich wollte die Websiteerstellung
 
 Wer mehr über mich erfahren möchte, kann sich auch auf LinkedIn informieren.
 
-Beste Grüße
+Beste Grüße  
 Tim Becker
