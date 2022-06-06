@@ -7,10 +7,10 @@ profile:
 published: true
 ---
 
-Mein Name ist Tim Becker. Ich bin Legal Counsel in einem international tätigen Unternehmen und Fachanwalt für Informationstechnologierecht (IT-Recht) in Lübeck. Meine anwaltliche Tätigkeit über ich in der [Rechtsanwaltskanzlei Becker+Henke Partnerschaft](<https://becker-henke.de>) aus. 
+Mein Name ist Tim Becker. Ich bin Legal Counsel in einem international tätigen Unternehmen und Fachanwalt für Informationstechnologierecht (IT-Recht) in Lübeck. Meine rechtsanwaltliche Tätigkeit über ich in der [Rechtsanwaltskanzlei Becker+Henke Partnerschaft](<https://becker-henke.de>) aus. 
 
 Ich habe eine starke Affinität zur Informationstechnologie und zu OpenSource-Themen. Deshalb bin ich auch überzeugter Linuxnutzer und schätze freie Software sehr. Meine berufliche Tätigkeit habe ich seit dem Start im Jahr 2013 im Schwerpunkt auf die Rechtsgebiete IT-Recht und Datenschutzrecht ausgerichtet.
 
 Mehr zu meiner Person und meinem Lebenslauf können Sie unter den folgenden Links erfahren.
 
-| [LinkedIn](<https://www.linkedin.com/in/becker-tim/>) | [Twitter](<https://twitter.com/ra_tbecker>) | <a rel="me" href="https://digitalcourage.social/@timbecker">Mastodon</a> | 
+| [LinkedIn](<https://www.linkedin.com/in/becker-tim/>) – [Twitter](<https://twitter.com/ra_tbecker>) – <a rel="me" href="https://digitalcourage.social/@timbecker">Mastodon</a> | 
