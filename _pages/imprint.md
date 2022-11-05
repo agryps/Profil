@@ -40,7 +40,7 @@ Ich bin nicht bereit und nicht verpflichtet, an einem Streitbeilegungsverfahren 
 
 Dieses Impressum gilt auch für die folgenden Accounts Accounts bei Anwalt.de, Twitter und Mastodon
 
-- https://www.anwalt.de/tim-becker-1
-- https://twitter.com/ra_tbecker
-- https://legal.social/@becker
-- https://digitalcourage.social/@timbecker
+-  https://digitalcourage.social/@timbecker
+-  https://legal.social/@becker
+-  https://twitter.com/ra_tbecker
+
