@@ -7,9 +7,13 @@ profile:
 published: true
 ---
 
-Mein Name ist Tim Becker. Ich bin Syndikusrechtsanwalt in einem international tätigen Unternehmen mit Hauptsitz in Lübeck. Daneben bin ich als Rechtsanwalt zugelassen und führe den Fachanwaltstitel Fachanwalt für Informationstechnologierecht (IT-Recht).
+Ich bin Syndikusrechtsanwalt in einem international tätigen Unternehmen mit Hauptsitz in Lübeck. Daneben bin ich als Rechtsanwalt zugelassen.
 
-Ich habe eine starke Affinität zur Informationstechnologie sowie zu OpenSource-Themen und schätze freie Software sehr. Meine berufliche Tätigkeit habe ich seit Beginn im Jahr 2013 im Schwerpunkt auf die Rechtsgebiete IT-Recht und Datenschutzrecht ausgerichtet. Als Syndikusrechtsanwalt befasse ich mich zusätzlich mit den weiteren Rechtsfragen aus dem Wirtschaftsrecht.
+2013 gründete ich zusammen mit einem Kollegen die [Rechtsanwaltskanzlei Becker-Henke Partnerschaft](<https://becker-henke.de>). Seitdem habe ich meinen Tätigkeitsschwerpunkt auf die Rechtsgebiete IT-Recht und Datenschutzrecht ausgerichtet. Im Juni 2018 wurde mir schließlich der Fachanwaltstitel "Fachanwalt für Informationstechnologierecht" (IT-Recht) verliehen.
+
+Gegen Ende 2021 zeichnete sich ab, dass ich eine berufliche Veränderung brauchte. In der Folge bin ich seit März 2022 hauptberuflich als Syndikusrechtsanwalt tätig und befasse ich mich neben dem IT-Recht mit den weiteren Rechtsfragen aus dem Wirtschaftsrecht.
+
+Privat habe ich eine starke Affinität zur Informationstechnologie sowie zu OpenSource-Themen und schätze freie Software sehr.
 
 Mehr zu meiner Person und meinem Lebenslauf können Sie unter den folgenden Links erfahren.
 
