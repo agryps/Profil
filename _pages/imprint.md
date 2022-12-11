@@ -9,10 +9,8 @@ Tim Becker\
 Rechtsanwalt\
 Kanalstraße 80, 23552 Lübeck
 
-Telefon: 0451/ 98989612\
-Telefax: 0451/ 98905648\
-E-Mail: kontakt@becker-henke.de\
-Web: www.becker-tim.de
+Telefon: 0151 72322930\
+E-Mail: rabecker@posteo.de
 
 Inhaltlich verantwortlich:
 
