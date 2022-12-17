@@ -11,7 +11,7 @@ Ich bin Syndikusrechtsanwalt in einem international tätigen Unternehmen mit Hau
 
 2013 gründete ich zusammen mit einem Kollegen die [Rechtsanwaltskanzlei Becker-Henke Partnerschaft](<https://becker-henke.de>). Seitdem habe ich meinen Tätigkeitsschwerpunkt auf die Rechtsgebiete IT-Recht und Datenschutzrecht ausgerichtet. Im Juni 2018 wurde mir schließlich der Fachanwaltstitel "Fachanwalt für Informationstechnologierecht" (IT-Recht) verliehen.
 
-Gegen Ende 2021 zeichnete sich ab, dass ich eine berufliche Veränderung brauchte. In der Folge bin ich seit März 2022 hauptberuflich als Syndikusrechtsanwalt tätig und befasse ich mich neben dem IT-Recht mit den weiteren Rechtsfragen aus dem Wirtschaftsrecht.
+Gegen Ende 2021 zeichnete sich ab, dass ich eine berufliche Veränderung brauchte. In der Folge bin ich seit März 2022 hauptberuflich als Syndikusrechtsanwalt tätig und befasse mich neben dem IT-Recht mit den weiteren Rechtsfragen aus dem Wirtschaftsrecht.
 
 Privat habe ich eine starke Affinität zur Informationstechnologie sowie zu OpenSource-Themen und schätze freie Software sehr.
 
