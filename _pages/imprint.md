@@ -40,5 +40,4 @@ Dieses Impressum gilt auch für die folgenden Accounts Accounts bei Anwalt.de, T
 
 -  https://digitalcourage.social/@timbecker
 -  https://legal.social/@becker
--  https://twitter.com/ra_tbecker
 

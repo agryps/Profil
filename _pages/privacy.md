@@ -11,9 +11,7 @@ Nachfolgend erfahren Sie von mir etwas über Art, Umfang und Zwecke der Erhebung
 
 Diese Datenschutzerklärung gilt für die Datenverarbeitung durch:
 
-Rechtsanwalt Tim Becker, Kanalstraße 80, 23552 Lübeck, Deutschland\
-Email: kontakt@becker-henke.de\
-Telefon: +49 (0)451 – 9898 9612 Fax: +49 (0)451 – 9890 5648
+Rechtsanwalt Tim Becker, Kanalstraße 80, 23552 Lübeck, Deutschland
 
 ### 2. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck von deren Verwendung
 
@@ -86,6 +84,6 @@ Hinsichtlich der Speicherdauer gilt, dass ich personenbezogene Daten lösche, so
 
 ### 12. Aktualität und Änderung dieser Datenschutzerklärung
 
-Diese Datenschutzerklärung ist aktuell gültig und hat den Stand September 2021.
+Diese Datenschutzerklärung ist aktuell gültig und hat den Stand Dezember 2022.
 
 Durch die Weiterentwicklung meiner Website und Angebote darüber oder aufgrund geänderter gesetzlicher beziehungsweise behördlicher Vorgaben kann es notwendig diese Datenschutzerklärung anzupassen. Die jeweils aktuelle Datenschutzerklärung kann jederzeit auf dieser Website von Ihnen abgerufen und bei Bedarf gespeichert oder ausgedruckt werden.
