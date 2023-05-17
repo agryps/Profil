@@ -36,8 +36,6 @@ Plattform der Europäischen Kommission zur Online-Streitbeilegung (OS) für Verb
 
 Ich bin nicht bereit und nicht verpflichtet, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-Dieses Impressum gilt auch für die folgenden Accounts Accounts bei Anwalt.de, Twitter und Mastodon
+Dieses Impressum gilt auch für die folgenden Accounts bei:
 
--  https://digitalcourage.social/@timbecker
--  https://legal.social/@becker
-
+- Mastodon https://digitalcourage.social/@timbecker
