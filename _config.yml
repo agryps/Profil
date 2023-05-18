@@ -16,8 +16,7 @@ paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
-# Social media links in footer
-twitter_username: ra_tbecker  
+# Social media links in footer 
 linkedin_username: becker-tim
 
 highlighter: rouge
