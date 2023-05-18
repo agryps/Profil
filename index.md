@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 permalink: /
 profile:
   align: right
@@ -15,6 +15,4 @@ Gegen Ende 2021 zeichnete sich ab, dass ich eine berufliche Veränderung braucht
 
 Privat habe ich eine starke Affinität zur Informationstechnologie sowie zu OpenSource-Themen und schätze freie Software sehr.
 
-Mehr zu meiner Person und meinem Lebenslauf können Sie unter den folgenden Links erfahren.
-
-| [LinkedIn](<https://www.linkedin.com/in/becker-tim/>) – <a rel="me" href="https://digitalcourage.social/@timbecker">Mastodon</a> | 
+Mehr zu meiner Person und meinem Lebenslauf können Sie auf [LinkedIn](<https://www.linkedin.com/in/becker-tim/>) unter auf <a rel="me" href="https://digitalcourage.social/@timbecker">Mastodon</a> finden.
