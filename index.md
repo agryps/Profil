@@ -12,7 +12,7 @@ Seit 2013 habe ich meinen Tätigkeitsschwerpunkt auf die Rechtsgebiete IT-Recht 
 
 Privat habe ich eine starke Affinität zur Informationstechnologie sowie zu OpenSource-Themen und schätze freie Software sehr.
 
-### Mein Werdegang
+__Mein Werdegang__
 
 - Rechtsanwalt (Syndikusrechtsanwalt) | Fachanwalt für IT-RechtRechtsanwalt\
   EUROIMMUN · März 2022 bis Heute · Lübeck, Deutschland
