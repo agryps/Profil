@@ -14,7 +14,7 @@ Privat habe ich eine starke Affinität zur Informationstechnologie sowie zu Open
 
 __Mein Werdegang__
 
-- Rechtsanwalt (Syndikusrechtsanwalt) | Fachanwalt für IT-RechtRechtsanwalt\
+- Rechtsanwalt (Syndikusrechtsanwalt) | Fachanwalt für IT-Recht\
   EUROIMMUN · März 2022 bis Heute · Lübeck, Deutschland
 
 - Rechtsanwalt | Fachanwalt für IT-Recht\
