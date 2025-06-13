@@ -7,8 +7,9 @@ profile:
 published: true
 ---
 
-Ich bin Syndikusrechtsanwalt in einem international tätigen Unternehmen mit Hauptsitz in Lübeck. Daneben bin ich als Rechtsanwalt zugelassen.
-Seit 2013 habe ich meinen Tätigkeitsschwerpunkt auf die Rechtsgebiete IT-Recht und Datenschutzrecht ausgerichtet und inzwischen auf das Wirtschaftsrecht erweitert . Im Juni 2018 wurde mir schließlich der Fachanwaltstitel "Fachanwalt für Informationstechnologierecht" (IT-Recht) verliehen.
+Ich bin Syndikusrechtsanwalt in einem international tätigen Unternehmen mit Hauptsitz in Lübeck Daneben bin ich als Rechtsanwalt zugelassen.
+
+Seit 2013 habe ich meinen Tätigkeitsschwerpunkt auf die Rechtsgebiete IT-Recht und Datenschutzrecht ausgerichtet und inzwischen auf das Wirtschaftsrecht erweitert. Im Juni 2018 wurde mir schließlich der Fachanwaltstitel "Fachanwalt für Informationstechnologierecht" (IT-Recht) verliehen.
 
 Privat habe ich eine starke Affinität zur Informationstechnologie sowie zu OpenSource-Themen und schätze freie Software sehr.
 
@@ -26,7 +27,4 @@ __Mein Werdegang__
 - Senior Consultant Datenschutz und IT-Compliance\
   intersoft consulting services AG · November 2012 bis Januar 2016 · 3 Jahre 3 Monate · Hamburg, Deutschland
 
-
-Mehr zu meiner Person und meinem Lebenslauf können Sie auf [LinkedIn](<https://www.linkedin.com/in/becker-tim/>) unter auf <a rel="me" href="https://digitalcourage.social/@timbecker">Mastodon</a> finden.
-
-
+Mehr zu meiner Person und meinem Lebenslauf können Sie auf [LinkedIn](<https://www.linkedin.com/in/becker-tim/>) und auf <a rel="me" href="https://mastodon.social/@timbecker">Mastodon</a> finden.
