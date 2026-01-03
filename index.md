@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Ich bin Syndikusrechtsanwalt in einem international tätigen Unternehmen mit Hauptsitz in Lübeck Daneben bin ich als Rechtsanwalt zugelassen.
+Ich bin Syndikusrechtsanwalt in einem international tätigen Unternehmen mit Hauptsitz in Lübeck. Daneben bin ich als Rechtsanwalt zugelassen.
 
 Seit 2013 habe ich meinen Tätigkeitsschwerpunkt auf die Rechtsgebiete IT-Recht und Datenschutzrecht ausgerichtet und inzwischen auf das Wirtschaftsrecht erweitert. Im Juni 2018 wurde mir schließlich der Fachanwaltstitel "Fachanwalt für Informationstechnologierecht" (IT-Recht) verliehen.
 
