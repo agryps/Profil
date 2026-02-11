@@ -6,10 +6,9 @@ profile:
   image: profile.jpg
 published: true
 ---
+Mit über einem Jahrzehnt Erfahrung im IT-Recht und Datenschutzrecht bin ich derzeit als Rechtsanwalt (Syndikusrechtsanwalt) in einem international tätigen Unternehmen mit Hauptsitz in Lübeck tätig. Daneben bin ich als Rechtsanwalt zugelassen und darf seit 2018 den Fachanwaltstitel "Fachanwalt für Informationstechnologierecht" (IT-Recht) tragen. 
 
-Ich bin Syndikusrechtsanwalt in einem international tätigen Unternehmen mit Hauptsitz in Lübeck. Daneben bin ich als Rechtsanwalt zugelassen.
-
-Seit 2013 habe ich meinen Tätigkeitsschwerpunkt auf die Rechtsgebiete IT-Recht und Datenschutzrecht ausgerichtet und inzwischen auf das Wirtschaftsrecht erweitert. Im Juni 2018 wurde mir schließlich der Fachanwaltstitel "Fachanwalt für Informationstechnologierecht" (IT-Recht) verliehen.
+Zu meinen Kernkompetenzen zählen die Vertragsgestaltung sowie die rechtliche Beratung und Betreuung in den Bereichen IT-Recht und Datenschutzrecht. Mein berufliches Ziel ist es, Unternehmen bei der rechtlichen Umsetzung ihrer IT-Lösungen zu unterstützen und sie in den Fragen des Informationsrechts, Datenschutzrechts und Datenrechts zu beraten.
 
 Privat habe ich eine starke Affinität zur Informationstechnologie sowie zu OpenSource-Themen und schätze freie Software sehr.
 
