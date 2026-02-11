@@ -38,4 +38,4 @@ Ich bin nicht bereit und nicht verpflichtet, an einem Streitbeilegungsverfahren 
 
 Dieses Impressum gilt auch für die folgenden Accounts bei:
 
-- Mastodon https://digitalcourage.social/@timbecker
+- Mastodon https://mastodon.social/@timbecker
